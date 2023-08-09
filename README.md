@@ -1,20 +1,18 @@
-<h1 align="center">Hi 👋, I'm Alireza Doostimehr</h1>
+<h1 align="center">Hi 👋, I'm Ghazal Ashoftedel</h1>
 <h3 align="center">A passionate computer learner from Earth!</h3>
 
 - 🌱 I’m currently learning **back-end developing skills.**
 
 - 💬 Ask me about **GO and Algorithms.**
 
-- 📫 How to reach me **alirezadoostimehr@gmail.com**
+- 📫 How to reach me **gashoftedel@gmail.com**
 
-- 📄 Know about my experiences [on my LinkedIn.](https://www.linkedin.com/in/alireza-doostimehr/)
+- 📄 Know about my experiences [on my LinkedIn.](https://www.linkedin.com/in/ghazal-ashoftedel/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/alireza-doostimehr" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="alireza-doostimehr" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/22103244" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="22103244" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/alrz" target="blank"><img align="center" src="https://art.npanuhin.me/SVG/Codeforces/Codeforces.colored.svg" alt="alrz" height="30" width="40" /></a>
-<a href="mailto:alirezadoostimehr@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="email" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ghazal-ashoftedel/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="alireza-doostimehr" height="30" width="40" /></a>
+<a href="mailto:gashoftedel@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="email" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
